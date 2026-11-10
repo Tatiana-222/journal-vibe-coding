@@ -1,3 +1,4 @@
+# Journal-vibe-coding
 journal de bord
 
 je suis Tatiana, en 2ème année UX/UI.
