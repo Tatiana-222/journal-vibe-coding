@@ -8,3 +8,9 @@ Ici, je note ce que j'apprend en vibe coding
 ## Qui je suis 
 
 Etudiante en design, j'aime les couleuuuuuuurs (surtout le violet)
+
+## Ce que j'apprends
+
+- **Git** : garder l'historique de mon projet
+- **Git Hub** : le partage en ligne
+- *Markdown* : écrir du texte mis en forme
