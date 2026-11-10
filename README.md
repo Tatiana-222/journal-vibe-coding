@@ -14,3 +14,7 @@ Etudiante en design, j'aime les couleuuuuuuurs (surtout le violet)
 - **Git** : garder l'historique de mon projet
 - **Git Hub** : le partage en ligne
 - *Markdown* : écrir du texte mis en forme
+
+## Ma page
+
+[Voir ma page en ligne](https://OUIOUI.github.io/vibe-coding-starter/)
