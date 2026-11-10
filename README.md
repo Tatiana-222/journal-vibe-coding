@@ -17,4 +17,4 @@ Etudiante en design, j'aime les couleuuuuuuurs (surtout le violet)
 
 ## Ma page
 
-[Voir ma page en ligne]([https://Tatiana-222.github.io/vibe-coding-starter/](https://www.youtube.com/watch?v=Mmw-PpWhKFg&list=RDMmw-PpWhKFg&start_radio=1))
+[Voir ma page en ligne](https://Tatiana-222.github.io/vibe-coding-starter/](https://www.youtube.com/watch?v=Mmw-PpWhKFg&list=RDMmw-PpWhKFg&start_radio=1))
